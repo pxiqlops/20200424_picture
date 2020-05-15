@@ -1,0 +1,12 @@
+C:\Users\pxiql\source\repos\0424\0424\bin\Debug\0424.exe.config
+C:\Users\pxiql\source\repos\0424\0424\bin\Debug\0424.exe
+C:\Users\pxiql\source\repos\0424\0424\bin\Debug\0424.pdb
+C:\Users\pxiql\source\repos\0424\0424\bin\Debug\0424.xml
+C:\Users\pxiql\source\repos\0424\0424\obj\Debug\0424.vbprojAssemblyReference.cache
+C:\Users\pxiql\source\repos\0424\0424\obj\Debug\_0424.Form1.resources
+C:\Users\pxiql\source\repos\0424\0424\obj\Debug\_0424.Resources.resources
+C:\Users\pxiql\source\repos\0424\0424\obj\Debug\0424.vbproj.GenerateResource.cache
+C:\Users\pxiql\source\repos\0424\0424\obj\Debug\0424.vbproj.CoreCompileInputs.cache
+C:\Users\pxiql\source\repos\0424\0424\obj\Debug\0424.exe
+C:\Users\pxiql\source\repos\0424\0424\obj\Debug\0424.xml
+C:\Users\pxiql\source\repos\0424\0424\obj\Debug\0424.pdb
